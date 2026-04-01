@@ -11,7 +11,7 @@ const Footer = () => (
           <div className="flex items-center mb-4">
             <Link to="/" className="flex items-center">
               <img 
-                src="/src/components/logo.png" 
+                src="/logo.png" 
                 alt="Medikare Logo" 
                 className="h-9 w-auto" 
               />
