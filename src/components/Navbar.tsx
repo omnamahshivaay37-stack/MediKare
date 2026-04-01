@@ -23,7 +23,7 @@ const Navbar = () => {
         {/* Only Logo Image - Text Removed */}
         <Link to="/" className="flex items-center">
           <img 
-            src="/src/components/logo.png" 
+            src="/logo.png" 
             alt="Medikare Logo" 
             className="h-10 w-auto" 
           />
