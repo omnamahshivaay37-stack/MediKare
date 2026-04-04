@@ -22,7 +22,7 @@ const HeroSection = () => {
 
           {/* Heading */}
           <h1 className="text-4xl md:text-6xl font-extrabold">
-            <span className="gradient-hero-text">Medikare</span> - Where{" "}
+            <span className="gradient-hero-text">HospiKare</span> - Where{" "}
             <span className="gradient-hero-text">Health</span> Meets{" "}
             <span className="gradient-hero-text">Access</span>
           </h1>
