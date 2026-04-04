@@ -12,7 +12,7 @@ const Footer = () => (
             <Link to="/" className="flex items-center">
               <img 
                 src="/logo.png" 
-                alt="Medikare Logo" 
+                alt="Hospikare Logo" 
                 className="h-9 w-auto" 
               />
             </Link>
@@ -46,14 +46,14 @@ const Footer = () => (
           <h4 className="font-semibold mb-3">Contact</h4>
           <div className="space-y-2 text-sm text-muted-foreground">
             <p className="flex items-center gap-2"><Phone className="h-4 w-4" /> +91 1800-XXX-XXXX</p>
-            <p className="flex items-center gap-2"><Mail className="h-4 w-4" /> support@MediKare.in</p>
+            <p className="flex items-center gap-2"><Mail className="h-4 w-4" /> support@HospiKare.in</p>
             <p className="flex items-center gap-2"><MapPin className="h-4 w-4" /> Mumbai, India</p>
           </div>
         </div>
       </div>
 
       <div className="border-t border-border mt-8 pt-6 text-center text-sm text-muted-foreground">
-        © 2026 MediKare. All rights reserved.
+        © 2026 HospiKare. All rights reserved.
       </div>
     </div>
   </footer>
