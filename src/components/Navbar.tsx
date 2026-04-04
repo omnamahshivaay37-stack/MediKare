@@ -24,7 +24,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center">
           <img 
             src="/logo.png" 
-            alt="Medikare Logo" 
+            alt="HospiKare Logo" 
             className="h-10 w-auto" 
           />
         </Link>
